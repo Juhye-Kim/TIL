@@ -14,10 +14,10 @@
 
 ### storybook
 
-- [시작하기]('../../Storybook/시작하기.md')
-- [간단한 컴포넌트]('../../Storybook/간단한컴포넌트.md')
+- [시작하기]('../../Storybook/시작하기.md)
+- [간단한 컴포넌트]('../../Storybook/간단한컴포넌트.md)
 
 ### 기타
 
 - [SPA]('../../ETC/SPA.md)
-- [CSR과 SSR]('../../ETC/CSR&SSR.md')
+- [CSR과 SSR]('../../ETC/CSR&SSR.md)
