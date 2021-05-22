@@ -19,5 +19,5 @@
 
 ### 기타
 
-- [SPA]('../../ETC/SPA.md')
+- [SPA]('../../ETC/SPA.md)
 - [CSR과 SSR]('../../ETC/CSR&SSR.md')
