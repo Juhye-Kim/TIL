@@ -2,7 +2,7 @@
 
 > 오늘 배운 것, 알게된 것들을 간단히 기록하는 곳
 
-[👉🏻 자세히 기록하는 블로그]('https://joooing.tistory.com/)
+<a href='https://joooing.tistory.com/'>👉🏻 자세히 기록하는 블로그</a>
 
 ### Javascript
 
