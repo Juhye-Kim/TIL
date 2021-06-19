@@ -10,6 +10,10 @@
 - [Map](Javascript/Map.md)
 - [Set](Javascript/Set.md)
 
+### HTML
+
+- [script태그](HTML/script.md)
+
 ### CSS
 
 - [Stacking Contexts, z-index]('../../CSS/stacking_context_와_z-index.md)
