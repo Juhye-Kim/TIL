@@ -40,6 +40,7 @@
 ### CS
 
 - [컴파일러 이론](CS/컴파일러이론.md)
+- [tokenizer, lexer, parser](CS/tokenizer.md)
 
 ### 기타
 
