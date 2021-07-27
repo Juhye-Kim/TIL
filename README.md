@@ -9,6 +9,7 @@
 - [Lexical Scope, Dynamic Scope]('../../Javascript/Scope.md)
 - [Map](Javascript/Map.md)
 - [Set](Javascript/Set.md)
+- [readline 모듈](./Javascript/readline.md)
 
 ### HTML
 
