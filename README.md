@@ -6,7 +6,7 @@
 
 ### Javascript
 
-- [Lexical Scope, Dynamic Scope]('../../Javascript/Scope.md)
+- [Lexical Scope, Dynamic Scope](./Javascript/Scope.md)
 - [Map](Javascript/Map.md)
 - [Set](Javascript/Set.md)
 - [readline 모듈](./Javascript/readline.md)
@@ -53,7 +53,8 @@
 
 ### 기타
 
-- [SPA]('../../ETC/SPA.md)
-- [CSR과 SSR]('../../ETC/CSR&SSR.md)
-- [렌더링 최적화]('../../React/렌더링최적화.md)
-- [Reflow]('../../ETC/Reflow.md)
+- [SPA](./ETC/SPA.md)
+- [CSR과 SSR](./ETC/CSR&SSR.md)
+- [렌더링 최적화](./React/렌더링최적화.md)
+- [Reflow](./ETC/Reflow.md)
+- [버전 관리 시스템](./ETC/버전관리시스템.md)
