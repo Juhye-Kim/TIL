@@ -57,4 +57,5 @@
 - [CSR과 SSR](./ETC/CSR&SSR.md)
 - [렌더링 최적화](./React/렌더링최적화.md)
 - [Reflow](./ETC/Reflow.md)
+- [git, git status](./ETC/git.md)
 - [버전 관리 시스템](./ETC/버전관리시스템.md)
